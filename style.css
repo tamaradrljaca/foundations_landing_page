@@ -1,0 +1,49 @@
+.container1 {
+    background-color: #1f2937;
+    font-family: 'Roboto';
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+     
+}
+
+.hero {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero2 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header_logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.button, .background {
+    background-color: #3882F6;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.headline {
+  display: flex;
+  
+}
